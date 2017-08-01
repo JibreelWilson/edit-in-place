@@ -1,0 +1,11 @@
+body{
+	font-family: 'courier new',courier, ariel;
+	background-color: lightblue;
+}
+.hidden{
+	display:none;
+}
+#myNameInput{
+	margin-top: 4px;
+	margin-bottom: 4px;
+}
